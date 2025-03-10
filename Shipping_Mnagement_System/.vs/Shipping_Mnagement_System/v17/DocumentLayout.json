@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\eman\\Shipping_Mnagement_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{604CBC99-A1E3-4C40-BBB3-271188B43D59}|Shipping.Core\\Shipping.Core.csproj|d:\\eman\\shipping_mnagement_system\\shipping.core\\shipping.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{604CBC99-A1E3-4C40-BBB3-271188B43D59}|Shipping.Core\\Shipping.Core.csproj|solutionrelative:shipping.core\\shipping.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583FF47B-81A5-4B7F-A7BD-E91711E8ABD9}|Shipping_BackEnd\\Shipping_BackEnd.csproj|d:\\eman\\shipping_mnagement_system\\shipping_backend\\shipping_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{583FF47B-81A5-4B7F-A7BD-E91711E8ABD9}|Shipping_BackEnd\\Shipping_BackEnd.csproj|solutionrelative:shipping_backend\\shipping_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583FF47B-81A5-4B7F-A7BD-E91711E8ABD9}|Shipping_BackEnd\\Shipping_BackEnd.csproj|d:\\eman\\shipping_mnagement_system\\shipping_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583FF47B-81A5-4B7F-A7BD-E91711E8ABD9}|Shipping_BackEnd\\Shipping_BackEnd.csproj|solutionrelative:shipping_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583FF47B-81A5-4B7F-A7BD-E91711E8ABD9}|Shipping_BackEnd\\Shipping_BackEnd.csproj|d:\\eman\\shipping_mnagement_system\\shipping_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{583FF47B-81A5-4B7F-A7BD-E91711E8ABD9}|Shipping_BackEnd\\Shipping_BackEnd.csproj|solutionrelative:shipping_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21EB375-805A-41E1-A1FF-CABE77BD4599}|Shipping.Repository\\Shipping.Repository.csproj|d:\\eman\\shipping_mnagement_system\\shipping.repository\\shipping.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F21EB375-805A-41E1-A1FF-CABE77BD4599}|Shipping.Repository\\Shipping.Repository.csproj|solutionrelative:shipping.repository\\shipping.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21EB375-805A-41E1-A1FF-CABE77BD4599}|Shipping.Repository\\Shipping.Repository.csproj|d:\\eman\\shipping_mnagement_system\\shipping.repository\\data\\shippingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21EB375-805A-41E1-A1FF-CABE77BD4599}|Shipping.Repository\\Shipping.Repository.csproj|solutionrelative:shipping.repository\\data\\shippingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\eman\\Shipping_Mnagement_System\\Shipping_BackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "Shipping_BackEnd\\appsettings.json",
+              "ToolTip": "D:\\eman\\Shipping_Mnagement_System\\Shipping_BackEnd\\appsettings.json",
+              "RelativeToolTip": "Shipping_BackEnd\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T11:47:58.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shipping_BackEnd",
+              "DocumentMoniker": "D:\\eman\\Shipping_Mnagement_System\\Shipping_BackEnd\\Shipping_BackEnd.csproj",
+              "RelativeDocumentMoniker": "Shipping_BackEnd\\Shipping_BackEnd.csproj",
+              "ToolTip": "D:\\eman\\Shipping_Mnagement_System\\Shipping_BackEnd\\Shipping_BackEnd.csproj",
+              "RelativeToolTip": "Shipping_BackEnd\\Shipping_BackEnd.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T11:47:58.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shipping.Repository",
+              "DocumentMoniker": "D:\\eman\\Shipping_Mnagement_System\\Shipping.Repository\\Shipping.Repository.csproj",
+              "RelativeDocumentMoniker": "Shipping.Repository\\Shipping.Repository.csproj",
+              "ToolTip": "D:\\eman\\Shipping_Mnagement_System\\Shipping.Repository\\Shipping.Repository.csproj",
+              "RelativeToolTip": "Shipping.Repository\\Shipping.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T11:47:58.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShippingContext.cs",
+              "DocumentMoniker": "D:\\eman\\Shipping_Mnagement_System\\Shipping.Repository\\Data\\ShippingContext.cs",
+              "RelativeDocumentMoniker": "Shipping.Repository\\Data\\ShippingContext.cs",
+              "ToolTip": "D:\\eman\\Shipping_Mnagement_System\\Shipping.Repository\\Data\\ShippingContext.cs",
+              "RelativeToolTip": "Shipping.Repository\\Data\\ShippingContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:47:58.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shipping.Core",
+              "DocumentMoniker": "D:\\eman\\Shipping_Mnagement_System\\Shipping.Core\\Shipping.Core.csproj",
+              "RelativeDocumentMoniker": "Shipping.Core\\Shipping.Core.csproj",
+              "ToolTip": "D:\\eman\\Shipping_Mnagement_System\\Shipping.Core\\Shipping.Core.csproj",
+              "RelativeToolTip": "Shipping.Core\\Shipping.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T11:47:58.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\eman\\Shipping_Mnagement_System\\Shipping_BackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "Shipping_BackEnd\\Program.cs",
+              "ToolTip": "D:\\eman\\Shipping_Mnagement_System\\Shipping_BackEnd\\Program.cs",
+              "RelativeToolTip": "Shipping_BackEnd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:47:54.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
